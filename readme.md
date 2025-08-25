@@ -67,7 +67,7 @@ El análisis de datos se ha dividido en los siguientes pasos:
 ## **Archivos del Proyecto**
 
 - **`consumo_energia_hogar.csv`**: Conjunto de datos utilizado en el análisis.
-- **`regresion_lineal.R`**: Código en R para realizar la regresión y análisis de datos.
+- **`script.R`**: Código en R para realizar la regresión y análisis de datos.
 
 ---
 
@@ -79,5 +79,4 @@ El análisis de datos se ha dividido en los siguientes pasos:
     ```
 
 2. **Ejecutar en R Studio**:
-    ```
     En caso de tener problemas con el archivo **`consumo_energia_hogar.Rproj`**, usar el código en **`script.R`**
