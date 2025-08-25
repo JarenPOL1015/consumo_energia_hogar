@@ -60,7 +60,7 @@ summary(modelo)$coefficients
 p_valor <- summary(modelo)$coefficients[2,4]  # p-valor del coeficiente de nro_habitantes
 r2 <- summary(modelo)$r.squared  # Coeficiente de determinación
 
-# cat("El p-valor es:", p_valor, "\n")
+cat("El p-valor es:", p_valor, "\n")
 cat("El valor de R^2 es:", r2, "\n")
 
 # 14. Conclusiones
